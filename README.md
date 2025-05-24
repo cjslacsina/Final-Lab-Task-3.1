@@ -66,34 +66,44 @@
 # Screenshots
 ## Query Statements
 
-1. Task 1
-- ![Image](https://github.com/user-attachments/assets/196adc4d-fda2-498f-a748-90bcd5a8e93a)
+1.) Task 1 
 
-2. Task 2
-- ![Image](https://github.com/user-attachments/assets/60457f8b-f814-440b-8045-69c65c071116)
+![Image](https://github.com/user-attachments/assets/4686ff05-49ff-4b20-9160-1dcf976e9c49)
+
+2.) Task 2
+
+![Image](https://github.com/user-attachments/assets/5d09607e-bcbf-4750-954d-320f38158ded)
   
-3. Task 3
-- ![Image](https://github.com/user-attachments/assets/cd91bee7-8d8b-41ce-9bcb-1df1fef7a05e)
+3.) Task 3
 
-4. Task 4
-- ![Image](https://github.com/user-attachments/assets/5c78e883-12d3-48c3-b34b-a11e76efe941)
+![Image](https://github.com/user-attachments/assets/6d279f66-a627-42b9-812b-2fd968ea1b85)
 
-5. Task 5
-- ![Image](https://github.com/user-attachments/assets/225aacc5-85ab-41d7-9157-9231b0a7c65a)
+4.) Task 4
+
+![Image](https://github.com/user-attachments/assets/aeb94b2c-d063-4493-9fd1-72dde096ea43)
+
+5.) Task 5
+
+![Image](https://github.com/user-attachments/assets/5b046591-9f52-401b-a256-d5c4bddc3df2)
 
 ## Output of Query Statements
 
-1. Task 1
-- ![Image](https://github.com/user-attachments/assets/522f4c0f-33ec-4762-848f-751357991336)
+1.) Task 1
 
-2. Task 2
-- ![Image](https://github.com/user-attachments/assets/e3c2b57c-1798-489d-b0be-4ecb1f53b7dc)
+![Image](https://github.com/user-attachments/assets/b475766c-e2b3-4a78-bd4b-012946ba1644)
 
-3. Task 3
-- ![Image](https://github.com/user-attachments/assets/bc183082-7ec5-45fa-a6df-787c3d11fc32)
+2.) Task 2
 
-4. Task 4
-- ![Image](https://github.com/user-attachments/assets/f528e339-674a-4869-937f-3763002b1298)
+![Image](https://github.com/user-attachments/assets/c60c0983-f88f-49dc-a49f-3103c1dd141c)
 
-5. Task 5
-- ![Image](https://github.com/user-attachments/assets/0e5a2ce5-5823-4318-bd75-461cd5a2fb52)
+3.) Task 3
+
+![Image](https://github.com/user-attachments/assets/7a124482-3e53-498a-a3a0-9e290dbafa5a)
+
+4.) Task 4
+
+![Image](https://github.com/user-attachments/assets/4e0c6412-4974-4071-9b60-b522c0a38312)
+
+5.) Task 5
+
+![Image](https://github.com/user-attachments/assets/3abf42c6-eba4-43a5-838d-80aa3bfb634d)
